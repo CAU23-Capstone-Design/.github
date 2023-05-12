@@ -1,12 +1,15 @@
-## Hi there 👋
+# .github
+(2023) 중앙대학교 캡스톤 디자인 3조
 
-<!--
+https://github.com/TeamRecorDream/RecorDream-Server
 
-**Here are some ideas to get you started:**
+이 페이지는 위의 사이트를 참고해서 만들기
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+목차 
+1. 소개 ( 포스터로 가자 )
+2. 팀원 소개 및 역할 
+3. 아키텍처
+
+
+
