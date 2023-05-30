@@ -17,7 +17,7 @@
 
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/e9ea1071-9b9f-4cea-ae65-9f1bcdb91a2a)
 
-## 🐥 TEAM 🐥
+## 🐥 TEAM 
 강명석 - 백엔드
 
 김용환 - 프론트엔드
@@ -28,7 +28,7 @@ server: https://github.com/CAU23-Capstone-Design/server
 
 client: https://github.com/CAU23-Capstone-Design/client
 
-## Service
+## 🍀 Service 
 여러분들은 애인과의 추억을 어떻게 관리를 하시나요? 
 
 캘린더에 언제 어디서 만났는지 기록을 한 경험이 있으신가요? 
@@ -41,13 +41,13 @@ client: https://github.com/CAU23-Capstone-Design/client
 
 ```두 사람의 사랑 이야기를 기록해주는 서비스, Lovestory``` 입니다.
 
-## App Logo
+## 🎀 App Logo 
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
 
-## Architecture
+## 🐲 Architecture 
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/839d36c4-badf-40d0-b339-c13624c80e91)
 
-## Demo
+## 🎬 Demo 
 
 ### 1. 커플 연동
 
