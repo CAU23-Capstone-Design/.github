@@ -1,21 +1,13 @@
-// Reference : https://github.com/Sookmyung-Software-Hackathon/TEAM9-iOS
 ## ABOUT
 - 중앙대학교 캡스톤 디자인 프로젝트 ( 2023-03 ~ 2023-06 )
 
 
 ## 💕 Lovestory 💕
 연인간의 추억을 자동으로 기록해주는 서비스
-```
-이 부분에 포스터 이미지 추가
-```
 
---- sample ---
+![KakaoTalk_20230602_124349554](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/ae8e8419-e45d-417e-9023-fc9fb4f907f4)
 
-![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/17215bfe-b7f5-4bd1-97c7-4c60005d4afb)
 
-![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/cbb185d6-8aa8-4be7-a95c-2f4603076729)
-
-![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/e9ea1071-9b9f-4cea-ae65-9f1bcdb91a2a)
 
 ## 🐥 TEAM 
 강명석 - 백엔드
