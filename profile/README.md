@@ -5,7 +5,7 @@
 ## 💕 Lovestory 💕
 연인간의 추억을 자동으로 기록해주는 서비스
 
-![KakaoTalk_20230602_124349554](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/ae8e8419-e45d-417e-9023-fc9fb4f907f4)
+![Component 32](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/d9138d94-31d9-4734-b445-8d1641deeae1)
 
 
 
