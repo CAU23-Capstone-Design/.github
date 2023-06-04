@@ -9,11 +9,7 @@
 
 
 ## 🐥 TEAM 
-강명석 - 백엔드
-
-김용환 - 프론트엔드
-
-박상현 - 프론트엔드
+![member](https://github.com/CAU23-Capstone-Design/.github/assets/29995267/d647da2b-9c72-4571-804d-d835cf480ccb)
 
 server: https://github.com/CAU23-Capstone-Design/server
 
