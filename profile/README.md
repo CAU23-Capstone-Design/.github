@@ -28,6 +28,10 @@ client: https://github.com/CAU23-Capstone-Design/client
 
 ```두 사람의 사랑 이야기를 기록해주는 서비스, Lovestory``` 입니다.
 
+## 프로젝트 Description
+# 프로젝트명
+LoveStory
+
 ## 🎀 App Logo 
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
 
