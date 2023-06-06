@@ -29,7 +29,7 @@ client: https://github.com/CAU23-Capstone-Design/client
 ```두 사람의 사랑 이야기를 기록해주는 서비스, Lovestory``` 입니다.
 
 ## 프로젝트 Description
-# 프로젝트명
+### 프로젝트명
 LoveStory
 
 ## 🎀 App Logo 
