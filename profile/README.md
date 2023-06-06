@@ -51,9 +51,9 @@ Lovestory
 ## Team
 ![member](https://github.com/CAU23-Capstone-Design/.github/assets/29995267/d647da2b-9c72-4571-804d-d835cf480ccb)
 
-강명석 - Back-End, Project Manager
-김용환 - Front-End
-박상현 - Front-End, Designer
+### 강명석 - Back-End, Project Manager
+### 김용환 - Front-End
+### 박상현 - Front-End, App Design
 
 ## Directory
 ### Client
@@ -124,6 +124,11 @@ Lovestory
 ### Back-End
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
+### Environment
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white"> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
+
+### Communication
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Google Meet-00897B?style=for-the-badge&logo=Google Meet&logoColor=white">
 
 ## 🎀 App Logo 
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
