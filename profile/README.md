@@ -51,9 +51,9 @@ Lovestory
 ### Team
 ![member](https://github.com/CAU23-Capstone-Design/.github/assets/29995267/d647da2b-9c72-4571-804d-d835cf480ccb)
 
-강명석 - BackEnd, Project Manager
-김용환 - FrontEnd
-박상현 - FrontEnd, Designer
+강명석 - Back-End, Project Manager
+김용환 - Front-End
+박상현 - Front-End, Designer
 
 ### Directory
 Client
@@ -112,6 +112,15 @@ Lovestory
     ├── tokens.js
     └── user.js
 ```
+
+## Project Information
+### Architecture
+![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/839d36c4-badf-40d0-b339-c13624c80e91)
+
+### Stacks
+Front
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=Jetpack Compose&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+
 
 ## 🎀 App Logo 
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
