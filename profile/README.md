@@ -28,11 +28,11 @@ client: https://github.com/CAU23-Capstone-Design/client
 
 ```두 사람의 사랑 이야기를 기록해주는 서비스, Lovestory``` 입니다.
 
-## Project Description
-### Project Name
+# Project Description
+## Project Name
 Lovestory
 
-### Project Logo
+## Project Logo
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
 
 ### Project Introduction
@@ -48,15 +48,15 @@ Lovestory
 
 ```두 사람의 사랑 이야기를 기록해주는 서비스, Lovestory``` 입니다.
 
-### Team
+## Team
 ![member](https://github.com/CAU23-Capstone-Design/.github/assets/29995267/d647da2b-9c72-4571-804d-d835cf480ccb)
 
 강명석 - Back-End, Project Manager
 김용환 - Front-End
 박상현 - Front-End, Designer
 
-### Directory
-Client
+## Directory
+### Client
 ```swift
 Lovestory
  ├── api
@@ -83,7 +83,7 @@ Lovestory
  └── MainActivity.kt
 ```
 
-Server
+### Server
 ```swift
 Lovestory
  ├── Jenkinsfile
@@ -113,14 +113,16 @@ Lovestory
     └── user.js
 ```
 
-## Project Information
-### Architecture
+# Project Information
+## Architecture
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/839d36c4-badf-40d0-b339-c13624c80e91)
 
-### Stacks
-Front
+## Stacks
+### Front-End
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=Jetpack Compose&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=Jetpack Compose&logoColor=white"><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+### Back-End
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
 
 
 ## 🎀 App Logo 
