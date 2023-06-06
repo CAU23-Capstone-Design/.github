@@ -57,7 +57,8 @@ client: https://github.com/CAU23-Capstone-Design/client
 
 ### Directory
 #### Client
-''' swift
+
+```swift
 Lovestory
  ├── api
  ├── broadcasts
@@ -84,7 +85,8 @@ Lovestory
 ```
 
 #### Server
-``` swift
+
+```swift
 Lovestory
  ├── Jenkinsfile
  ├── README.md
