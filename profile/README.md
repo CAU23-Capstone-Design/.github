@@ -57,6 +57,7 @@ Lovestory
 
 ### Directory
 Front
+```swift
 📦lovestory
  ┣ 📂api
  ┣ 📂broadcasts
@@ -79,6 +80,7 @@ Front
  ┃ ┗ 📂theme
  ┣ 📂view
  ┗ 📜MainActivity.kt
+ ```
 
 ## 🎀 App Logo 
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
