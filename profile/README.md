@@ -32,8 +32,10 @@ client: https://github.com/CAU23-Capstone-Design/client
 ## Project Name
 ### Lovestory
 
-## Project Logo
+
+## App Logo
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
+
 
 ## Project Introduction
 여러분들은 애인과의 추억을 어떻게 관리를 하시나요? 
@@ -48,12 +50,14 @@ client: https://github.com/CAU23-Capstone-Design/client
 
 ```두 사람의 사랑 이야기를 기록해주는 서비스, Lovestory``` 입니다.
 
+
 ## Team
 ![member](https://github.com/CAU23-Capstone-Design/.github/assets/29995267/d647da2b-9c72-4571-804d-d835cf480ccb)
 
 ### 강명석 - Back-End, Project Manager
 ### 김용환 - Front-End
 ### 박상현 - Front-End, App Design
+
 
 ## Directory
 ### Client
@@ -119,6 +123,7 @@ Lovestory
 ## Architecture
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/839d36c4-badf-40d0-b339-c13624c80e91)
 
+
 ## Stacks
 ### Front-End
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white"> <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=Jetpack Compose&logoColor=white"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
@@ -132,16 +137,23 @@ Lovestory
 ### Communication
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Google Meet-00897B?style=for-the-badge&logo=Google Meet&logoColor=white">
 
+
 ## Main Function
-### Gps를 통한 커플 위치 자동 확인
+### Gps를 통해 자동으로 커플 동기화
 
 ### 사진 동기화
 
 ### 사진 업로드 / 삭제
 
+### 달력으로 추억 확인
+
+### 지도로 함께 있던 장소와 사진 확인
+
+
 ## Personal Information Processing
 
-# Project Result
+
+# Demo
 ## 커플 연동
 
 ## 대시보드
@@ -151,6 +163,12 @@ Lovestory
 ## 캘린더
 
 ## 프로필
+
+# External resources Information
+### calendar : https://github.com/boguszpawlowski/ComposeCalendar
+
+### google map (clustering) : https://github.com/googlemaps/android-maps-compose/tree/main/maps-compose-utils
+
 
 ## 🎀 App Logo 
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
