@@ -9,7 +9,7 @@
 
 
 ## 🐥 TEAM 
-![member](https://github.com/CAU23-Capstone-Design/.github/assets/29995267/d647da2b-9c72-4571-804d-d835cf480ccb)
+![Cover2](https://github.com/CAU23-Capstone-Design/.github/assets/33853770/24c13b47-440d-476f-bca7-460133fdd8f7)
 
 server: https://github.com/CAU23-Capstone-Design/server
 
@@ -35,28 +35,6 @@ client: https://github.com/CAU23-Capstone-Design/client
 
 ## App Logo
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
-
-
-## Project Introduction
-여러분들은 애인과의 추억을 어떻게 관리를 하시나요? 
-
-캘린더에 언제 어디서 만났는지 기록을 한 경험이 있으신가요? 
-
-혹은 함께 있을 때 찍은 사진들을 상대방과 공유하기 위해서 공유앨범을 만들고 있으신가요?
-
-하지만 이러한 일들이 시간이 지나면서 조금씩 소홀해 지면서 추억을 잃어버리고 있지는 않으신가요?
-
-여러분들의 추억을 잃지 않도록 저장해주는 서비스가 필요하지 않으신가요?
-
-```두 사람의 사랑 이야기를 기록해주는 서비스, Lovestory``` 입니다.
-
-
-## Team
-![member](https://github.com/CAU23-Capstone-Design/.github/assets/29995267/d647da2b-9c72-4571-804d-d835cf480ccb)
-
-### 강명석 - Back-End, Project Manager
-### 김용환 - Front-End
-### 박상현 - Front-End, App Design
 
 
 ## Directory
@@ -139,18 +117,18 @@ Lovestory
 
 
 ## Main Function
-### Gps를 통해 자동으로 커플 동기화
+### + Gps를 통해 자동으로 커플 동기화
 
-### 사진 동기화
+### + 사진 동기화
 
-### 사진 업로드 / 삭제
+### + 사진 업로드 / 삭제
 
-### 달력으로 추억 확인
+### + 달력으로 추억 확인
 
-### 지도로 함께 있던 장소와 사진 확인
+### + 지도로 함께 있던 장소와 사진 확인
 
 
-## Personal Information Processing
+## Personal Information Security Processing
 ![personal security](https://github.com/CAU23-Capstone-Design/.github/assets/33853770/1835ace8-80b2-4196-b783-f27770ac3c08)
 
 # Demo
