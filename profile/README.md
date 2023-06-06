@@ -58,28 +58,138 @@ Lovestory
 ### Directory
 Front
 ```swift
-📦lovestory
- ┣ 📂api
- ┣ 📂broadcasts
- ┣ 📂database
- ┃ ┣ 📂entities
- ┃ ┣ 📂repository
- ┣ 📂graphs
- ┣ 📂model
- ┣ 📂module
- ┃ ┣ 📂auth
- ┃ ┣ 📂dashboard
- ┃ ┣ 📂photo
- ┃ ┣ 📂shared
- ┣ 📂network
- ┣ 📂resource
- ┣ 📂services
- ┣ 📂ui
- ┃ ┣ 📂components
- ┃ ┣ 📂screens
- ┃ ┗ 📂theme
- ┣ 📂view
- ┗ 📜MainActivity.kt
+Lovestory
+ ┣ api
+ ┃ ┣ Calendar.kt
+ ┃ ┣ Couple.kt
+ ┃ ┣ Location.kt
+ ┃ ┣ Photo.kt
+ ┃ ┣ Token.kt
+ ┃ ┗ User.kt
+ ┣ broadcasts
+ ┃ ┗ BoardCastContent.kt
+ ┣ database
+ ┃ ┣ entities
+ ┃ ┃ ┣ AdditionalPhoto.kt
+ ┃ ┃ ┣ PhotoForSync.kt
+ ┃ ┃ ┗ SyncedPhoto.kt
+ ┃ ┣ repository
+ ┃ ┃ ┣ AdditionalPhotoRepository.kt
+ ┃ ┃ ┣ PhotoForSyncRepository.kt
+ ┃ ┃ ┗ SyncedPhotoRepository.kt
+ ┃ ┗ Photos.kt
+ ┣ graphs
+ ┃ ┣ AuthNavigationGraph.kt
+ ┃ ┣ MainNavigationGraph.kt
+ ┃ ┗ RootNavigationGraph.kt
+ ┣ model
+ ┃ ┣ Calendar.kt
+ ┃ ┣ Clustering.kt
+ ┃ ┣ Comment.kt
+ ┃ ┣ Couple.kt
+ ┃ ┣ Location.kt
+ ┃ ┣ Photo.kt
+ ┃ ┣ Token.kt
+ ┃ ┗ User.kt
+ ┣ module
+ ┃ ┣ auth
+ ┃ ┃ ┗ DisconnectCouple.kt
+ ┃ ┣ dashboard
+ ┃ ┃ ┣ getCoupleInfo.kt
+ ┃ ┃ ┗ saveAndGetCoupleInfo.kt
+ ┃ ┣ map
+ ┃ ┃ ┗ Map.kt
+ ┃ ┣ photo
+ ┃ ┃ ┣ AddPhotoFromGallery.kt
+ ┃ ┃ ┣ DeletePhotoById.kt
+ ┃ ┃ ┣ getDetailPhoto.kt
+ ┃ ┃ ┣ GetThumbnailForPhoto.kt
+ ┃ ┃ ┗ UploadPhoto.kt
+ ┃ ┣ shared
+ ┃ ┃ ┗ SharedDistance.kt
+ ┃ ┣ CheckCode.kt
+ ┃ ┣ CheckCouple.kt
+ ┃ ┣ CheckExistNeedPhotoForSync.kt
+ ┃ ┣ CheckNearby.kt
+ ┃ ┣ CheckRunningService.kt
+ ┃ ┣ DiskCache.kt
+ ┃ ┣ GetExifInfo.kt
+ ┃ ┣ GetIamgeById.kt
+ ┃ ┣ GetImageInfoById.kt
+ ┃ ┣ GetPermission.kt
+ ┃ ┣ GetTokenInfo.kt
+ ┃ ┣ KakaoLogin.kt
+ ┃ ┣ LinkCouple.kt
+ ┃ ┣ MapClustering.kt
+ ┃ ┣ SavedComment.kt
+ ┃ ┣ SaveLocation.kt
+ ┃ ┣ SharedToken.kt
+ ┃ ┗ StartService.kt
+ ┣ network
+ ┃ ┣ Comment.kt
+ ┃ ┣ Couple.kt
+ ┃ ┣ CreateApiService.kt
+ ┃ ┣ Gps.kt
+ ┃ ┣ Location.kt
+ ┃ ┣ Photo.kt
+ ┃ ┣ Token.kt
+ ┃ ┗ User.kt
+ ┣ resource
+ ┃ ┣ font.kt
+ ┃ ┗ test.kt
+ ┣ services
+ ┃ ┣ LocationService.kt
+ ┃ ┗ PhotoService.kt
+ ┣ ui
+ ┃ ┣ components
+ ┃ ┃ ┣ AlertDialog.kt
+ ┃ ┃ ┣ Animation.kt
+ ┃ ┃ ┣ Avatar.kt
+ ┃ ┃ ┣ Button.kt
+ ┃ ┃ ┣ Calendar.kt
+ ┃ ┃ ┣ CalendarDialogForSignUp.kt
+ ┃ ┃ ┣ DayGroupedGallery.kt
+ ┃ ┃ ┣ Dialog.kt
+ ┃ ┃ ┣ DropDownIcon.kt
+ ┃ ┃ ┣ GroupedGallery.kt
+ ┃ ┃ ┣ Image.kt
+ ┃ ┃ ┣ ImageFromURI.kt
+ ┃ ┃ ┣ Marker.kt
+ ┃ ┃ ┣ Navigation.kt
+ ┃ ┃ ┣ PdfViewer.kt
+ ┃ ┃ ┣ PhotoForCalendar.kt
+ ┃ ┃ ┣ RepresentPeriodGallery.kt
+ ┃ ┃ ┣ ScreenHeader.kt
+ ┃ ┃ ┣ SelectMenuButtons.kt
+ ┃ ┃ ┣ SettingMenuList.kt
+ ┃ ┃ ┣ TestImage.kt
+ ┃ ┃ ┗ TextField.kt
+ ┃ ┣ screens
+ ┃ ┃ ┣ CalendarScreen.kt
+ ┃ ┃ ┣ CoupleSyncScreen.kt
+ ┃ ┃ ┣ DashBoardScreen.kt
+ ┃ ┃ ┣ GalleyScreen.kt
+ ┃ ┃ ┣ HelpScreen.kt
+ ┃ ┃ ┣ LoginScreen.kt
+ ┃ ┃ ┣ MainScreen.kt
+ ┃ ┃ ┣ MapScreen.kt
+ ┃ ┃ ┣ PhotoDetailScreen.kt
+ ┃ ┃ ┣ PhotoSyncScreen.kt
+ ┃ ┃ ┣ PrivacyScreen.kt
+ ┃ ┃ ┗ ProfileScreen.kt
+ ┃ ┗ theme
+ ┃ ┃ ┣ Color.kt
+ ┃ ┃ ┣ Shape.kt
+ ┃ ┃ ┣ Theme.kt
+ ┃ ┃ ┗ Type.kt
+ ┣ view
+ ┃ ┣ ImageSyncView.kt
+ ┃ ┣ ImageSyncViewFactory.kt
+ ┃ ┣ PhotoForSyncView.kt
+ ┃ ┣ PhotoForSyncViewFactory.kt
+ ┃ ┣ SyncedPhotoView.kt
+ ┃ ┗ SyncedPhotoViewFactory.kt
+ ┗ MainActivity.kt
  ```
 
 ## 🎀 App Logo 
