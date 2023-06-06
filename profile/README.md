@@ -28,9 +28,57 @@ client: https://github.com/CAU23-Capstone-Design/client
 
 ```두 사람의 사랑 이야기를 기록해주는 서비스, Lovestory``` 입니다.
 
-## 프로젝트 Description
-### 프로젝트명
-LoveStory
+## Project Description
+### Project Name
+Lovestory
+
+### Project Logo
+![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
+
+### Project Introduction
+여러분들은 애인과의 추억을 어떻게 관리를 하시나요? 
+
+캘린더에 언제 어디서 만났는지 기록을 한 경험이 있으신가요? 
+
+혹은 함께 있을 때 찍은 사진들을 상대방과 공유하기 위해서 공유앨범을 만들고 있으신가요?
+
+하지만 이러한 일들이 시간이 지나면서 조금씩 소홀해 지면서 추억을 잃어버리고 있지는 않으신가요?
+
+여러분들의 추억을 잃지 않도록 저장해주는 서비스가 필요하지 않으신가요?
+
+```두 사람의 사랑 이야기를 기록해주는 서비스, Lovestory``` 입니다.
+
+### Team
+![member](https://github.com/CAU23-Capstone-Design/.github/assets/29995267/d647da2b-9c72-4571-804d-d835cf480ccb)
+
+강명석 - BackEnd, Project Manager
+김용환 - FrontEnd
+박상현 - FrontEnd, Designer
+
+### Directory
+Front
+📦lovestory
+ ┣ 📂api
+ ┣ 📂broadcasts
+ ┣ 📂database
+ ┃ ┣ 📂entities
+ ┃ ┣ 📂repository
+ ┣ 📂graphs
+ ┣ 📂model
+ ┣ 📂module
+ ┃ ┣ 📂auth
+ ┃ ┣ 📂dashboard
+ ┃ ┣ 📂photo
+ ┃ ┣ 📂shared
+ ┣ 📂network
+ ┣ 📂resource
+ ┣ 📂services
+ ┣ 📂ui
+ ┃ ┣ 📂components
+ ┃ ┣ 📂screens
+ ┃ ┗ 📂theme
+ ┣ 📂view
+ ┗ 📜MainActivity.kt
 
 ## 🎀 App Logo 
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
