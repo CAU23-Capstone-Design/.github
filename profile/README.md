@@ -130,6 +130,26 @@ Lovestory
 ### Communication
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Google Meet-00897B?style=for-the-badge&logo=Google Meet&logoColor=white">
 
+## Main Function
+### Gps를 통한 커플 위치 자동 확인
+
+### 사진 동기화
+
+### 사진 업로드 / 삭제
+
+## Personal Information Processing
+
+# Project Result
+## 커플 연동
+
+## 대시보드
+
+## 갤러리
+
+## 캘린더
+
+## 프로필
+
 ## 🎀 App Logo 
 ![image](https://github.com/CAU23-Capstone-Design/.github/assets/33647663/4beda672-d261-4cc7-9c1e-e2b807600606)
 
