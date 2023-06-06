@@ -151,7 +151,7 @@ Lovestory
 
 
 ## Personal Information Processing
-
+![personal security](https://github.com/CAU23-Capstone-Design/.github/assets/33853770/1835ace8-80b2-4196-b783-f27770ac3c08)
 
 # Demo
 ## 커플 연동
