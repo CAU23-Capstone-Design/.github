@@ -9,7 +9,7 @@
 
 
 ## 🐥 TEAM 
-![member](https://github.com/CAU23-Capstone-Design/.github/assets/29995267/d647da2b-9c72-4571-804d-d835cf480ccb)
+![Cover2](https://github.com/CAU23-Capstone-Design/.github/assets/33853770/24c13b47-440d-476f-bca7-460133fdd8f7)
 
 server: https://github.com/CAU23-Capstone-Design/server
 
