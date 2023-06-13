@@ -46,16 +46,3 @@ client: https://github.com/CAU23-Capstone-Design/client
 
 ### Communication
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Google Meet-00897B?style=for-the-badge&logo=Google Meet&logoColor=white">
-
-
-## 🎬 Demo 
-
-### 1. 커플 연동
-
-### 2. 대시보드
-
-### 3. 갤러리
-
-### 4. 캘린더
-
-### 5. 프로필
