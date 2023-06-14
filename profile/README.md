@@ -46,3 +46,6 @@ client: https://github.com/CAU23-Capstone-Design/client
 
 ### Communication
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Google Meet-00897B?style=for-the-badge&logo=Google Meet&logoColor=white">
+
+## 📑 Presentation
+[발표자료](https://github.com/CAU23-Capstone-Design/.github/blob/main/resource/final_presentation.pdf)
